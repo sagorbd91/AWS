@@ -1,5 +1,13 @@
 Step by Step to Git
 ==================
+# sudo su
+# yum update -y
+# yum install git -y
+# git --version
+# git config --global user.name "sagorbd91"
+# git config --global user.email "sagor.ghosh@dal.ca"
+# git config --list
+
 1) Login to EC2 instance
 2) Create one directory and go inside that directory
 3) command: # git init
@@ -11,6 +19,6 @@ Step by Step to Git
 9) git log (credential check)
 10) git show
 11) git remote add origin <central Origin>
-
+12) git push -u origin master
 
 
