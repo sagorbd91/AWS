@@ -1,0 +1,12 @@
+Step by Step to Git
+==================
+1) Login to EC2 instance
+2) Create one directory and go inside that directory
+3) command: # git init
+4) command: # touch myfile
+5) command: # git status
+6) git add .
+7) git commit -m "1st commit from virginia"
+8) git status
+9) git log (credential check)
+10) git show
