@@ -10,3 +10,7 @@ Step by Step to Git
 8) git status
 9) git log (credential check)
 10) git show
+11) git remote add origin <central Origin>
+
+
+
